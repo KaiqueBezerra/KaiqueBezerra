@@ -1,6 +1,6 @@
 💻 Apaixonado por tecnologia e programação! 🚀
 
-Sou um entusiasta da tecnologia, sempre em busca de aprendizado e novos desafios no mundo da programação. Meu objetivo é aprimorar minhas habilidades, contribuir para projetos inovadores e crescer profissionalmente no setor de tecnologia.
+Estou sempre em busca de aprendizado e novos desafios no mundo da programação. Meu objetivo é aprimorar minhas habilidades, contribuir para projetos inovadores e crescer profissionalmente no setor de tecnologia.
 
 🔹 Meus principais interesses:
 ✅ Desenvolvimento de software – Expandindo minhas habilidades e explorando novas tecnologias;
