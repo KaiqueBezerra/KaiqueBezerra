@@ -19,11 +19,11 @@ I am a dedicated and curious student, always open to learning opportunities. If 
 
 <hr/>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub | GitHub Stats
 ![Contribuições Totais](https://streak-stats.demolab.com/?user=KaiqueBezerra&theme=transparent&hide_longest_streak=true&hide_current_streak=true&card_width=200&card_height=120)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&layout=compact&theme=transparent&card_width=200)
 
-## 🚀 Tecnologias que uso
+## 🚀 Tecnologias que uso | Technologies I use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ I am a dedicated and curious student, always open to learning opportunities. If 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌍 Onde me encontrar
+## 🌍 Onde me encontrar | Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-bezerra-souza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bezerra_kaique/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaiquebezerra.vercel.app/)
