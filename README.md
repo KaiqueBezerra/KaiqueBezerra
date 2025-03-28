@@ -20,16 +20,22 @@ I am a dedicated and curious student, always open to learning opportunities. If 
 <hr/>
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&theme=transparent) 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueBezerra&hide=prs,issues,contribs,stars&show_icons=true&theme=transparent)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&layout=compact&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com/?user=KaiqueBezerra&theme=transparent)
-
-## 🏆 Troféus do GitHub
-![Troféus](https://github-profile-trophy.vercel.app/?username=KaiqueBezerra&theme=transparent)
+![Contribuições Totais](https://streak-stats.demolab.com/?user=KaiqueBezerra&theme=transparent&hide_longest_streak=true&hide_current_streak=true)
 
 ## 🚀 Tecnologias que uso
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌍 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-bezerra-souza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bezerra_kaique/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kaiquebezerra.vercel.app/)
