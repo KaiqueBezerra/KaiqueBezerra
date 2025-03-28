@@ -20,7 +20,6 @@ I am a dedicated and curious student, always open to learning opportunities. If 
 <hr/>
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueBezerra&hide=prs,issues,contribs,stars&show_icons=true&theme=transparent)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&layout=compact&theme=transparent)
 ![Contribuições Totais](https://streak-stats.demolab.com/?user=KaiqueBezerra&theme=transparent&hide_longest_streak=true&hide_current_streak=true)
 
