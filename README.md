@@ -19,5 +19,18 @@ I am a dedicated and curious student, always open to learning opportunities. If 
 
 <hr/>
 
-![Kaique Bezerra](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&theme=transparent) 
-![Kaique Bezerra](https://github-readme-stats.vercel.app/api?username=KaiqueBezerra&hide=prs,issues,contribs,stars&show_icons=true&theme=transparent)
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KaiqueBezerra&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueBezerra&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KaiqueBezerra&theme=dracula)
+
+## 🏆 Troféus do GitHub
+![Troféus](https://github-profile-trophy.vercel.app/?username=KaiqueBezerra&theme=dracula)
+
+## 🚀 Tecnologias que uso
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF4088?style=for-the-badge&logo=zustand&logoColor=white)
+
+## 🌍 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-bezerra-souza/)
