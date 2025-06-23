@@ -1,3 +1,6 @@
+![snake gif](https://github.com/KaiqueBezerra/KaiqueBezerra/blob/output/github-contribution-grid-snake.svg)
+
+
 # 🚀 Sobre Mim
 
 
