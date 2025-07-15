@@ -1,4 +1,4 @@
-![snake gif](https://github.com/KaiqueBezerra/blob/output/github-contribution-grid-snake.svg)
+![snake dark](https://github.com/KaiqueBezerra/KaiqueBezerra/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 # 🚀 Sobre Mim
 
