@@ -1,4 +1,12 @@
-![snake gif](https://github.com/KaiqueBezerra/KaiqueBezerra/blob/output/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiqueBezerra/KaiqueBezerra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueBezerra/KaiqueBezerra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KaiqueBezerra/KaiqueBezerra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 # 🚀 Sobre Mim
 
